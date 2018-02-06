@@ -23,6 +23,9 @@ import java.util.Date;
 
 public class Main {
 
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////
+    // To use, replace "change me" with the "authorization code"
+    // Note: do not push to GitHub with the auth code
     // api access code - base64 encoded username:authorizationkey;
     public static String accessCode = "change me";
     public String season = "2017";
